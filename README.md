@@ -55,7 +55,7 @@ Raw Signals
 Practical log investigation queries used during production incidents.
 
 Public Preview:
-👉 [Insert GitHub Preview Repo Link Here]
+👉 https://github.com/bernalo-lab/aws-log-search-preview
 
 ---
 
