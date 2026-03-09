@@ -2,10 +2,48 @@
 
 Operational thinking frameworks and structured failure analysis patterns for real production incidents.
 
-When systems fail, most teams chase symptoms.  
+When systems fail, engineers chase symptoms.
+
+Incident Engineering focuses on:
+
+• signal  
+• sequence  
+• failure shape  
+• escalation bias
+
+These patterns help engineers move from confusion to clarity during incidents.
+
 Incident Engineering focuses on signal, sequence, ownership, and failure shape.
 
 This repository documents practical patterns used during real-world incident response.
+
+---
+
+# PRODUCTION INCIDENT
+
+        ↓
+
+  Signal Spike
+ (metrics / logs)
+
+        ↓
+
+ Incident Engineering
+     Patterns
+
+        ↓
+
+ AWS Log Search
+     Recipes
+
+        ↓
+
+   Root Signal
+
+        ↓
+
+   ExplainError
+  Judgement Layer
 
 ---
 
