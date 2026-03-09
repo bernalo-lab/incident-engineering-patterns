@@ -1,7 +1,7 @@
 # Practical AWS Incident Investigation Playbook
 
 Download the printable PDF version:\
-`aws_log_search_practical_use_case.pdf`
+<a href="../assets/pdf/aws_log_search_practical_use_case v1.pdf" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">AWS Log Search Practical Use Case</a>
 
 ------------------------------------------------------------------------
 
