@@ -1,4 +1,4 @@
-Contribution Scope
+**Contribution Scope**
 
 This repository focuses on structured incident analysis patterns.
 Contributions should prioritise:
