@@ -24,6 +24,33 @@ Just patterns that work under pressure.
 
 ---
 
+## Incident Investigation Toolkit
+
+  Start here if you are responding to a production incident.
+  These resources summarise investigation patterns used by experienced engineers when analysing system failures
+
+• **2AM Incident Investigation Cheat Sheet**  
+  A rapid decision framework for investigating production incidents under pressure.
+  Instead of reading thousands of log lines, engineers follow a structured sequence of focused searches to quickly identify the earliest failure signal and narrow the investigation scope.
+
+  Designed to reduce hesitation during on-call situations and accelerate the first critical minutes of incident response.
+
+• **AWS Incident Nightmares (Failure Patterns)**  
+  A collection of recurring failure scenarios frequently observed in AWS production systems.
+  These patterns highlight incidents that are commonly misdiagnosed, such as retry amplification loops, dependency outages, and  partial deployments.
+
+  Recognising these failure shapes early helps engineers avoid chasing symptoms and focus on the underlying cause.
+
+  Designed to reduce hesitation during on-call situations and accelerate the first critical minutes of incident response.
+
+• **Practical Incident Investigation Playbook**  
+  A step-by-step walkthrough of how engineers investigate a real production incident using structured log searches.
+The playbook demonstrates how a small number of targeted queries can quickly reveal the origin, scope, and likely cause of a system failure.
+
+Designed to bridge the gap between theory and real operational practice.
+
+---
+
 ## Ecosystem Overview
 
 This repository forms part of a broader incident intelligence initiative:
