@@ -19,29 +19,20 @@ This repository documents practical patterns used during real-world incident res
 
 ---
 
-# PRODUCTION INCIDENT
+# Product Incident
 
         ↓
-
   Signal Spike
  (metrics / logs)
-
         ↓
-
  Incident Engineering
      Patterns
-
         ↓
-
  AWS Log Search
      Recipes
-
         ↓
-
    Root Signal
-
         ↓
-
    ExplainError
   Judgement Layer
 
