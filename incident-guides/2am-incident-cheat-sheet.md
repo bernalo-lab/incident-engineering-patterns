@@ -2,7 +2,7 @@
 
 Download the printable PDF version:\
 `aws_log_search_2am_incident_cheat_sheet.pdf`
-<a href="../assets/pdf/2am_incident_cheat_sheet.pdf" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">AWS Log Search 2am Incident Cheat Sheet</a>
+<a href="../assets/pdf/aws_log_search_2am_incident_cheat_sheet.pdf" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">AWS Log Search 2am Incident Cheat Sheet</a>
 
 
 ------------------------------------------------------------------------
