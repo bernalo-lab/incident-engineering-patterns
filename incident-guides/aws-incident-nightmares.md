@@ -3,7 +3,7 @@
 **Real Production Failure Patterns and How to Investigate Them**
 
 Download the printable PDF version:\
-`aws_incident_nightmares_sre_guide.pdf`
+<a href="../assets/pdf/aws_incident_nightmares_sre_guide v1.pdf" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">AWS Incident Nightmares SRE Guide</a>
 
 ------------------------------------------------------------------------
 
